@@ -21,5 +21,5 @@ The dataset used for the student well-being survey analysis is named "Survey.csv
 
 ## Accessing Podcasts in Our Tool
 
-Our tool provides a convenient way to listen to podcasts. You can find them in mhi\public\podcasts
+Our tool provides a convenient way to listen to podcasts. You can find them in mhi\public\Podcasts
 
